@@ -23,6 +23,7 @@
     "@zoralabs/protocol-sdk": "^0.7.1",
     "auth0-lock": "^12.5.1",
     "axios": "^1.7.2",
+    "bcryptjs": "^2.4.3",
     "bootstrap-icons": "^1.11.3",
     "cors": "^2.8.5",
     "crypto-js": "^4.2.0",
